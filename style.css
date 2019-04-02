@@ -17,12 +17,10 @@ body {
 
 header {
   display: flex;
-  margin: auto;
+  margin: 53px auto 8px;
   justify-content: space-between;
   align-items: center;
   width: 940px;
-  margin-top: 53px;
-  margin-bottom: 8px;
 }
 
 .header-title {
